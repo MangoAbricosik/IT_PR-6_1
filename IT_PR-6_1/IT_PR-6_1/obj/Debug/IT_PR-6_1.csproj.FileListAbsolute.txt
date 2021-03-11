@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\IT_PR-6_1\IT_PR-6_1\bin\Debug\IT_PR-6_1.exe.config
+C:\Users\student\source\repos\IT_PR-6_1\IT_PR-6_1\bin\Debug\IT_PR-6_1.exe
+C:\Users\student\source\repos\IT_PR-6_1\IT_PR-6_1\bin\Debug\IT_PR-6_1.pdb
+C:\Users\student\source\repos\IT_PR-6_1\IT_PR-6_1\obj\Debug\IT_PR-6_1.csprojAssemblyReference.cache
+C:\Users\student\source\repos\IT_PR-6_1\IT_PR-6_1\obj\Debug\IT_PR_6_1.Form1.resources
+C:\Users\student\source\repos\IT_PR-6_1\IT_PR-6_1\obj\Debug\IT_PR_6_1.Properties.Resources.resources
+C:\Users\student\source\repos\IT_PR-6_1\IT_PR-6_1\obj\Debug\IT_PR-6_1.csproj.GenerateResource.cache
+C:\Users\student\source\repos\IT_PR-6_1\IT_PR-6_1\obj\Debug\IT_PR-6_1.exe
+C:\Users\student\source\repos\IT_PR-6_1\IT_PR-6_1\obj\Debug\IT_PR-6_1.pdb
